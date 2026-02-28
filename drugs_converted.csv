@@ -1,0 +1,100 @@
+drug,smiles,Classification
+Heroin,CC(=O)O[C@H]1C=C[C@H]2[C@H]3CC4=C5[C@]2([C@H]1OC5=C(C=C4)OC(=O)C)CCN3C,Illegal
+Cocaine, CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC,Illegal
+Methamphetamine,C[C@@H](CC1=CC=CC=C1)NC,Illegal
+Amphetamine,CC(CC1=CC=CC=C1)N,Illegal
+MDMA,CC(CC1=CC2=C(C=C1)OCO2)NC,Illegal
+MDA,C1=CC(=CC=C1CC2=CC=C(C=C2)N)N,Illegal
+MDEA,CN(CCO)CCO,Illegal
+LSD(Lysergic acid diethylamide),CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C,Illegal
+Psilocybin,CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O,Illegal
+Psilocin,CN(C)CCC1=CNC2=C1C(=CC=C2)O,Illegal
+5‑MeO‑DMT,CN(C)CCC1=CNC2=C1C=C(C=C2)OC,Illegal 
+Mescaline,COC1=CC(=CC(=C1OC)OC)CCN,Illegal
+Psilocybin,CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O,Illegal
+Ketamine,CNC1(CCCCC1=O)C2=CC=CC=C2Cl,Legal
+Melatonin,CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC,Legal
+Atorvastatin,CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4,Legal
+Fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,Legal
+Carfentanil,CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CC=C3)C(=O)OC,Illegal
+Acetylfentanyl,CC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,Illegal
+Morphine,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O,Illegal
+Benzylfentanyl,CCC(=O)N(C1CCN(CC1)CC2=CC=CC=C2)C3=CC=CC=C3,Illegal
+Oxycodone,CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O,Legal
+Hydrocodone,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3C(=O)CC4,Legal
+Codeine,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O,Legal
+Krokodil (Desomorphine),CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3CCC4,Illegal
+Methadone,CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2,Legal
+Buprenorphine,C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)(C(C)(C)C)O,Legal
+Tramadol,CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O,Legal
+Sufentanil,CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CS3)COC,Legal
+Remifentanil,CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC(=O)OC)C(=O)OC,Legal
+Tapentadol, CC[C@@H](C1=CC(=CC=C1)O)[C@@H](C)CN(C)C,Legal
+Butyrfentanyl,CCCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,Illegal
+Diphenidine,C1CCN(CC1)C(CC2=CC=CC=C2)C3=CC=CC=C3,Illegal
+Methoxphenidine,COC1=CC=CC=C1C(CC2=CC=CC=C2)N3CCCCC3,Illegal
+Methoxetamine,CCNC1(CCCCC1=O)C2=CC(=CC=C2)OC,Illegal
+Cannabis,C/C/1=C\\CC(/C=C/C/C(=C/CC1)/C)(C)C,Illegal
+Salvinorin A,CC(=O)O[C@H]1C[C@H]([C@@]2(CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]2C1=O)C)C4=COC=C4)C)C(=O)OC,Legal
+Cathinone,C[C@@H](C(=O)C1=CC=CC=C1)N,Illegal
+Methcathinone,CC(C(=O)C1=CC=CC=C1)NC,Illegal
+Mephedrone (4‑MMC),CC1=CC=C(C=C1)C(=O)C(C)NC,Illegal
+Methylone,CC(C(=O)C1=CC2=C(C=C1)OCO2)NC,Illegal
+Ethylone,CCNC(C)C(=O)C1=CC2=C(C=C1)OCO2,Illegal
+Alpha‑PVP ,CCCC(C(=O)C1=CC=CC=C1)N2CCCC2,Illegal
+Eticyclidine,CCNC1(CCCCC1)C2=CC=CC=C2,Illegal
+Clonazolam,CC1=NN=C2N1C3=C(C=C(C=C3)[N+](=O)[O-])C(=NC2)C4=CC=CC=C4Cl,Illegal
+Meperidine,CCOC(=O)C1(CCN(CC1)C)C2=CC=CC=C2,Legal
+Amiodarone, CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I,Legal
+Digoxin,C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@@H]2[C@H](O[C@H](C[C@@H]2O)O[C@@H]3[C@H](O[C@H](C[C@@H]3O)O[C@H]4CC[C@]5([C@@H](C4)CC[C@@H]6[C@@H]5C[C@H]([C@]7([C@@]6(CC[C@@H]7C8=CC(=O)OC8)O)C)O)C)C)C)O)O,Legal
+Nitrous Oxide ,[N-]=[N+]=O,Legal
+Zolpidem , CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C,Legal
+Alprazolam, CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4,Legal
+Diazepam ,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,Legal
+Clonazepam ,C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3Cl,Legal
+Flunitrazepam,CN1C(=O)CN=C(C2=C1C=CC(=C2)[N+](=O)[O-])C3=CC=CC=C3F,Legal
+Phenazepam, C1C(=O)NC2=C(C=C(C=C2)Br)C(=N1)C3=CC=CC=C3Cl,Illegal
+Pentobarbita,CCCC(C)C1(C(=O)NC(=O)NC1=O)CC,Legal
+Secobarbita, CCCC(C)C1(C(=O)NC(=O)NC1=O)CC=C,Legal
+Amobarbital ,CCC1(C(=O)NC(=O)NC1=O)CCC(C)C,Legal
+Diltiazem,CC(=O)O[C@@H]1[C@@H](SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC,Legal
+Isotonitazene,CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OC(C)C,Illegal
+Etonitazene, CCN(CC)CCN1C2=C(C=C(C=C2)[N+](=O)[O-])N=C1CC3=CC=C(C=C3)OCC,Illegal
+Benzylfentanyl,CCC(=O)N(C1CCN(CC1)CC2=CC=CC=C2)C3=CC=CC=C3,Illegal
+Xylazine ,CC1=C(C(=CC=C1)C)NC2=NCCCS2,Illegal
+Mitragynine ,CC[C@@H]1CN2CCC3=C([C@@H]2C[C@@H]1/C(=C\\OC)/C(=O)OC)NC4=C3C(=CC=C4)OC,Legal
+Cathinone,C[C@@H](C(=O)C1=CC=CC=C1)N,Illegal
+Ibogaine,CC[C@H]1C[C@@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC,Legal
+Fluticasone,C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)SCF)O)C)O)F)C)F,Legal
+Verapamil,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC,Legal
+Prednisone,C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C,Legal
+Dexamethasone ,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C,Legal
+Hydrocortisone ,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O,Legal
+Salbutamol , CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,Legal
+Budesonide , CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@@]5([C@H]4[C@H](C[C@@]3([C@@]2(O1)C(=O)CO)C)O)C,Legal
+Montelukast , CC(C)(C1=CC=CC=C1CC[C@H](C2=CC=CC(=C2)/C=C/C3=NC4=C(C=CC(=C4)Cl)C=C3)SCC5(CC5)CC(=O)O)O,Legal
+Sildenafil , CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C,Legal
+Tadalafil , CN1CC(=O)N2[C@@H](C1=O)CC3=C([C@H]2C4=CC5=C(C=C4)OCO5)NC6=CC=CC=C36,Legal
+Butylone ,CCC(C(=O)C1=CC2=C(C=C1)OCO2)NC,Illegal
+Etizolam, CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4Cl)C,Legal
+Finasteride ,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC(C)(C)C)CC[C@@H]4[C@@]3(C=CC(=O)N4)C,Legal
+Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Legal
+Nicotine , CN1CCC[C@H]1C2=CN=CC=C2,Legal
+Ethanol ,CCO,Legal
+Acetaminophen , CC(=O)NC1=CC=C(C=C1)O,Legal
+Ibuprofen ,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Legal
+Acetylsalicylic acid, CC(=O)OC1=CC=CC=C1C(=O)O,Legal
+Naproxen , C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,Legal
+Diphenhydramine,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,Legal
+Loratadine, CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1,Legal
+Cetirizine,C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)C,Legal
+Pseudoephedrine, C[C@@H]([C@H](C1=CC=CC=C1)O)NC,Legal
+Phenylephrine,CNC[C@@H](C1=CC(=CC=C1)O)O,Legal
+Tamsulosin ,CCOC1=CC=CC=C1OCCN[C@H](C)CC2=CC(=C(C=C2)OC)S(=O)(=O)N,Legal
+Famotidine,C1=C(N=C(S1)N=C(N)N)CSCC/C(=N/S(=O)(=O)N)/N,Legal
+Metformin,CN(C)C(=N)N=C(N)N,Legal
+Allopurinol,C1=NNC2=C1C(=O)NC=N2,Legal
+Levothyroxine , C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)C[C@@H](C(=O)O)N,Legal
+Atorvastatin,CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4,Legal
+Simvastatin ,CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C,Legal
+Melatonin ,CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC,Legal
